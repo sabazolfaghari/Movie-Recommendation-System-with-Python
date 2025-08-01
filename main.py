@@ -13,7 +13,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # loading the data from the csv file to apandas dataframe
 
-movies_data = pd.read_csv('C:/Users/Saba/Desktop/MovieRecommendationSystem/movies.csv')
+movies_data = pd.read_csv('//movies.csv')
 
 # printing the first 5 rows of the dataframe
 
